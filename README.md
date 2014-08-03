@@ -1,7 +1,5 @@
 Tagged
 =======
 
-My first sample app using Facebook Graph API. Compatible on iOS 7. I would be making more improvements for the app. 
-Please download Facebook SDK from developer's portal and add Facebook SDK into your xcode project.. 
-
+My first iOS app using Facebook Graph API. Compatible with iOS 7. I would be making more improvements. Please download Facebook SDK from Facebook's developer portal and add it to the project.. 
 
